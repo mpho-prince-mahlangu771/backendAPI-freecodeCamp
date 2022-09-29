@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "mpho prince mahlangu",
+	"description": "creating a simple backend application using node.js and express.js",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
