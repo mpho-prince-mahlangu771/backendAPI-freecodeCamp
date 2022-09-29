@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "mpho prince mahlangu",
 	"description": "creating a simple backend application using node.js and express.js",
+	"keywords": ["backend", "freecodecamp", "web apps", "apis"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
