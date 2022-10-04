@@ -1,5 +1,5 @@
-# Learning backend and API using freecodeCamp academy
-This repo  contains  my solutions to the freeCodeCamp academy backend and API course. 
+# Managing packages with NPM -  freecodeCamp academy backend and API course
+
 
 # Instructions for running the project and passing the test cases on freecodecamp
 1. install node on PC - instructions available on the internet
